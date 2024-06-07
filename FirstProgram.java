@@ -8,6 +8,7 @@ class HelloWorld{
 
         secondProgram obj = new secondProgram();
         obj.show();
+        System.out.println("Hello India");
         config();
 
         Thirdprogram obj1 = new Thirdprogram();
